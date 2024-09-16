@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e51db09-cd24-4e51-8617-064b92ddc520)# SoftwareTestingProjects
+# SoftwareTestingProjects
 All the manual testing projects with documents
 
 
